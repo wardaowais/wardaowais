@@ -42,12 +42,12 @@
 <h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
 </br>
  
-![wardaowais's Stats](https://github-readme-stats.vercel.app/api?username=poisonous-idiot&theme=merko&show_icons=true&hide_border=false&count_private=false) ![wardaowais's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poisonous-idiot&theme=merko&hide_border=false)
-![wardaowais's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poisonous-idiot&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![wardaowais's Stats](https://github-readme-stats.vercel.app/api?username=wardaowais&theme=merko&show_icons=true&hide_border=false&count_private=false) ![wardaowais's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poisonous-idiot&theme=merko&hide_border=false)
+![wardaowais's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wardaowais&theme=merko&show_icons=true&hide_border=false&layout=compact)
 <hr/>
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=poisonous-idiot&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=wardaowais&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
  
 
  
