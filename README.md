@@ -66,11 +66,3 @@
   ![Warda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wardaowais&theme=merko&show_icons=true&hide_border=false&layout=compact)
   
 </div>
-
-<hr style="margin: 40px 0;"/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center" style="padding: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=wardaowais&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-top: 10px;">
-</div>
