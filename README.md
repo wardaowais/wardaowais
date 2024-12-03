@@ -8,14 +8,14 @@
   
   <br/>
   
-  <h2>Innovative Front-End Developer, crafting efficient solutions! 🧙‍♂️💻</h2>
+  <h2>Innovative Full Stack Developer, crafting efficient solutions! 🧙‍♂️💻</h2>
   
 </div>
 
 <br/>
 
 <div align="center" style="line-height: 1.6;">
-  <p>🔭 Currently working on <strong>Front-End Development</strong></p>
+  <p>🔭 Currently working on <strong>MERN Stack</strong></p>
   <p>🌱 Learning <strong>Artificial Intelligence</strong></p>
   <p>💬 Ask me about <strong>Programming, AI, or anything else</strong> <a href="https://www.linkedin.com/in/wardaowais/">here</a></p>
   <p>⚡ Connections: <strong>Looking to connect with AI Enthusiasts!</strong></p>
