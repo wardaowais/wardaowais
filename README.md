@@ -55,14 +55,4 @@
   </a>
 </div>
 
-<hr style="margin: 40px 0;"/>
 
-<h2 align="center">🔥 GitHub Stats, Streaks & Languages 🔥</h2>
-
-<div align="center" style="padding: 20px;">
-  
-  ![Warda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wardaowais&theme=merko&show_icons=true&hide_border=false&count_private=true)
-  ![Warda's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wardaowais&theme=merko&hide_border=false)
-  ![Warda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wardaowais&theme=merko&show_icons=true&hide_border=false&layout=compact)
-  
-</div>
