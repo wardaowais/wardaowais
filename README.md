@@ -15,7 +15,7 @@
 
 ### 💻 Tech Stack  
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,java,python,mongodb,mysql,git,github,vscode,figma&theme=dark)  
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,java,python,mongodb,mysql,git,github,vscode,figma&theme=dark)  
 
 ---
 
