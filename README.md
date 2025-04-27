@@ -1,13 +1,13 @@
 ### Full Stack Developer | MERN & AI Enthusiast  
 
-🚀 Currently working on **MERN Stack**  
-🤖 Exploring **Artificial Intelligence**  
-💡 Ask me about **Programming, AI, or Web Development**  
-🤝 Always open to **collaborations & networking!**  
+ Currently working on **MERN Stack** 
+ Exploring **Artificial Intelligence** 
+ Ask me about **Programming, AI, or Web Development**  
+ Always open to **collaborations & networking!**  
 
 ---
 
-### 📬 Connect with Me  
+###  Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wardaowais/)  
 
