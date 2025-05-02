@@ -1,11 +1,11 @@
 ### Full Stack Developer | MERN & AI Enthusiast  
 
- Currently working on **MERN Stack**  ---
- Exploring **Artificial Intelligence** ---
- Ask me about **Programming, AI, or Web Development**  ---
- Always open to **collaborations & networking!**  ---
+ Currently working on **MERN Stack**, 
+ Exploring **Artificial Intelligence**, 
+ Ask me about **Programming, AI, or Web Development**,
+ Always open to **collaborations & networking!** 
 
----
+
 
 ###  Connect with Me  
 
