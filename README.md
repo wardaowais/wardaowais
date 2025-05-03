@@ -6,30 +6,6 @@
   Always open to <strong>collaborations</strong> and happy to help, feel free to connect or reach out!
 </p>
 
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/wardaowais" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:wardaowais123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/wardaowais45" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/wardaowais45" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://linktr.ee/wardaowais" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="https://dribbble.com/wardaowais" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  </a>
-</p>
 
 ---
 
@@ -78,6 +54,13 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+
+<!-- CMS Platforms -->
+<br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wix-000000?style=flat&logo=wix&logoColor=white"/>
+
 </p>
 
 ---
@@ -86,3 +69,26 @@
 
 <p align="center">💬 I'm always excited to meet new people, collaborate on awesome projects, or just have a techy chat.</p>
 <p align="center"><strong>👉 Feel free to connect with me on LinkedIn or drop me an email!</strong></p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wardaowais" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"/>
+  </a>
+  <a href="mailto:wardaowais123@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28" height="28"/>
+  </a>
+  <a href="https://www.instagram.com/wardaowais45" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="28" height="28"/>
+  </a>
+  <a href="https://www.facebook.com/wardaowais45" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="28" height="28"/>
+  </a>
+  <a href="https://dribbble.com/wardaowais" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733544.png" alt="Dribbble" width="28" height="28"/>
+  </a>
+</p>
+
