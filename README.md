@@ -1,4 +1,4 @@
-
+<img  width="100%" loading="lazy" src="https://github.com/wardaowais/wardaowais/blob/main/Warda.gif" />
 
 <h1 align="center">👋 Welcome to my GitHub Profile</h1>
 
