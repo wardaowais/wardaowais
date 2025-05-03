@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn-18181b?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+placeholder</img>"/>
+
 
   <!-- Backend -->
   <br/>
