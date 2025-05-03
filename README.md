@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/25455528-ae6e-429d-ada6-ab2fa56a7191)
+
 <h1 align="center">👋 Welcome to my GitHub Profile</h1>
 
 <p align="center">
