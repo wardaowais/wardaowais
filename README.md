@@ -11,9 +11,9 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 > Tech Stack & Tools</h2>
 
-<p align="center">
+<p >
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+ <br/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
@@ -67,16 +68,16 @@
 
 ---
 
-<h2 align="center">Let's turn your ideas to into reality!</h2>
+<h2 >Let's turn your ideas to into reality!</h2>
 
-<p align="center">💬 I'm always excited to meet new people, collaborate on awesome projects, or just have a techy chat.</p>
-<p align="center"><strong>👉 Feel free to connect with me on LinkedIn or drop me an email!</strong></p>
+<p >💬 I'm always excited to meet new people, collaborate on awesome projects, or just have a techy chat.</p>
+<p><strong>👉 Feel free to connect with me on LinkedIn or drop me an email!</strong></p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 >Connect With Me...</h2>
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/wardaowais" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"/>
   </a>
