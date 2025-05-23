@@ -1,9 +1,7 @@
 <img  width="100%" loading="lazy" src="https://github.com/wardaowais/wardaowais/blob/main/Warda.gif" />
 
-<h1 align="center">👋 Welcome to my GitHub Profile</h1>
-
 <p align="center">
-  I'm <strong>Warda Owais</strong> an experienced <strong>Web Developer</strong> with expertise in <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and the complete <strong>MERN Stack</strong>. <br>
+  Hey 👋 I'm <strong>Warda Owais</strong> an experienced <strong>Web Developer</strong> with expertise in <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and the complete <strong>MERN Stack</strong>. <br>
   I love building scalable web apps and exploring the world of <strong>AI</strong>. <br>
   Always open to <strong>collaborations</strong> and happy to help, feel free to connect or reach out!
 </p>
