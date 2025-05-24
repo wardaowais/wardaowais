@@ -75,21 +75,14 @@
 
 <h2 >Follow Me Here ... If You Want To Know More About Myself... 😎 </h2>
 
-<p >
-  <a href="https://www.linkedin.com/in/wardaowais" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"/>
-  </a>
-  <a href="mailto:wardaowais123@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28" height="28"/>
-  </a>
-  <a href="https://www.instagram.com/wardaowais45" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="28" height="28"/>
-  </a>
-  <a href="https://www.facebook.com/wardaowais45" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="28" height="28"/>
-  </a>
-  <a href="https://dribbble.com/wardaowais" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733544.png" alt="Dribbble" width="28" height="28"/>
+
+<p align="left">
+<a href="https://linkedin.com/in/wardaowais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wardaowais" height="30" width="40" /></a>
+<a href="https://fb.com/wardaowais45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wardaowais45" height="30" width="40" /></a>
+<a href="https://instagram.com/wardaowais45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wardaowais45" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/warda_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="warda_dev" height="30" width="40" /></a>
+<a href="https://discord.gg/wardashiekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wardashiekh" height="30" width="40" /></a>
+<a href="mailto:wardaowais123@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="40"/>
   </a>
 </p>
 
