@@ -73,7 +73,7 @@
 
 ---
 
-<h2 >Connect With Me...</h2>
+<h2 >Follow Me Here ... If You Want To Know More About Myself... 😎 </h2>
 
 <p >
   <a href="https://www.linkedin.com/in/wardaowais" target="_blank">
