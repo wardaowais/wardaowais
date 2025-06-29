@@ -68,8 +68,8 @@
 
 <h2 >Let's turn your ideas to into reality!</h2>
 
-<p >💬 I'm always excited to meet new people, collaborate on awesome projects, or just have a techy chat.</p>
-<p><strong>👉 Feel free to connect with me on LinkedIn or drop me an email!</strong></p>
+<p >I'm always excited to meet new people, collaborate on awesome projects, or just have a techy chat.</p>
+<p><strong>Feel free to connect with me on LinkedIn or drop me an email!</strong></p>
 
 ---
 
