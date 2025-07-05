@@ -7,7 +7,7 @@
 </p>
 
 
----
+
 
 <h2 > Tech Stack & Tools</h2>
 
@@ -64,7 +64,7 @@
 
 </p>
 
----
+
 
 <h2 >Let's turn your ideas to into reality!</h2>
 
