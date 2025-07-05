@@ -71,7 +71,7 @@
 <p >I'm always excited to meet new people, collaborate on awesome projects, or just have a techy chat.</p>
 <p><strong>Feel free to connect with me on LinkedIn or drop me an email!</strong></p>
 
----
+
 
 
 </p>
