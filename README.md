@@ -1,4 +1,4 @@
-<img  width="100%" loading="lazy" src="https://github.com/wardaowais/wardaowais/blob/main/cover.jpg" />
+<img  width="100%" loading="lazy" src="https://github.com/wardaowais/wardaowais/blob/main/c2.jpg" />
 
 <p align="center">
   Hey 👋 I'm <strong>Warda Owais</strong> an experienced <strong>Web Developer</strong> with expertise in <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and the complete <strong>MERN Stack</strong>. <br>
