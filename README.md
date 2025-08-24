@@ -3,8 +3,8 @@
 <p >
   👋 Hi, I'm <strong>Warda Owais</strong> a <strong>Full Stack Developer</strong> with 5+ years of experience delivering <strong>scalable, secure, and high-performance applications</strong>. <br><br>
   I specialize in <strong>React.js, Node.js, Express.js, MongoDB, PostgreSQL, Supabase, React Native, JavaScript, and Tailwind CSS</strong>, with hands-on expertise in <strong>AWS, cloud deployment, and API integrations</strong>. <br><br>
-  Over the years, I’ve successfully built <strong>AI-powered applications, SaaS platforms, mobile apps, chatbots, and real-time communication systems</strong>. <br><br>
-  My work emphasizes <strong>cloud-based architecture, RESTful APIs, optimized performance, and responsive UI/UX</strong>. <br><br>
+ Successfully built <strong>AI-powered applications, SaaS platforms, mobile apps, chatbots, and real-time communication systems</strong>. <br><br>
+ Including <strong>cloud-based architecture, RESTful APIs, optimized performance, and responsive UI/UX</strong>. <br><br>
   Always open to <strong>collaborations and impactful projects</strong>  let’s build something innovative together! 
 </p>
 
