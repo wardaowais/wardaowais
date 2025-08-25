@@ -74,8 +74,17 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/>
 </p>
 
-<h2 >Automation and integerations</h2>
+<h2>Automation & Integrations</h2>
+
 <p>
+  <img src="https://img.shields.io/badge/Make.com-2E86DE?style=flat&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B8B?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apify-FFCC00?style=flat&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=IFTTT&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pabbly-00C389?style=flat&logo=pabbly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Workato-0066FF?style=flat&logo=workato&logoColor=white"/>
@@ -86,6 +95,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </p>
+
 
 
 <h2 >Let's turn your ideas to into reality!</h2>
