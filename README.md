@@ -74,6 +74,18 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/>
 </p>
 
+<h2 >Automation and integerations</h2>
+<p>
+  <img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=IFTTT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pabbly-00C389?style=flat&logo=pabbly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workato-0066FF?style=flat&logo=workato&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SendGrid-00BFFF?style=flat&logo=sendgrid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Calendly-0069FF?style=flat&logo=calendly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+</p>
 
 
 <h2 >Let's turn your ideas to into reality!</h2>
